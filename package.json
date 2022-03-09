@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/JanZaion/melodyspawner-production/issues"
   },
-  "homepage": "https://github.com/JanZaion/melodyspawner-production#readme"
+  "homepage": "https://github.com/JanZaion/melodyspawner-production#readme",
+  "dependencies": {
+    "@tonaljs/tonal": "^4.6.0",
+    "convenient-methods-of-randomness": "^1.0.1",
+    "scribbletune": "^4.1.1"
+  }
 }
